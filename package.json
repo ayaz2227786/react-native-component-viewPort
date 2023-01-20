@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayaz2227786/react-native-component-viewPort.git"
+    "url": "git+https://github.com/ayaz2227786/react-native-component-view-port.git"
   },
   "bugs": {
-    "url": "https://github.com/ayaz2227786/react-native-component-viewPort/issues"
+    "url": "https://github.com/ayaz2227786/react-native-component-view-port/issues"
   },
-  "homepage": "https://github.com/ayaz2227786/react-native-component-viewPort#readme"
+  "homepage": "https://github.com/ayaz2227786/react-native-component-view-port#readme"
 }
